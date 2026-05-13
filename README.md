@@ -1,3 +1,2 @@
-# Chicken Kings Vault
+# Website to teach kids Math
 
-Chicken Kings Vault is an open sourced unblocked game website full of flash, webports, emulator and many more types of games!
